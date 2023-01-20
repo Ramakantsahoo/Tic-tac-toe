@@ -145,7 +145,6 @@ body{
 }
 
 .winning-message button {
-    font-size: 3rem;
     padding: .5em .4em;
     background-color: white;
     border: 1px solid black;
