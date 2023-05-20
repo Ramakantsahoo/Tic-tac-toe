@@ -1,4 +1,4 @@
-# Tik-tac-toe
+# Tic-tac-toe
 Sample image : 
 <br><br>
 <img title="sample" alt="sample-img" src="Tic-tac-toe.png"><br>
